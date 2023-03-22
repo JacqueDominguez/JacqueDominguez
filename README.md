@@ -1,4 +1,4 @@
-### Hola! 👋 Mi nombre es **Jacqueline Dominguez** y soy  Contadora Pública , Docente y **Data Analyst**
+### Hola! 👋 Mi nombre es **Jacqueline Dominguez** y soy  👨‍💻Contadora Pública , 📋Docente y   📊**Data Analyst**
 <div> 
 <p align="center">
 <img src="https://www.analyticsinsight.net/wp-content/uploads/2021/02/Data-Analytics.jpg" alt="MDN"width="1000" height="500">
