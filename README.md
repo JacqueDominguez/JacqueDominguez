@@ -6,7 +6,7 @@
 
 ## ✨ A cerca de mí
 <div> 
-Soy una profesional entusiasta del análisis de datos y fanática de los desafíos. Me caracterizo por mis ganas de trabajar en equipo , aprender cosas nuevas y desarrollar nuevas habilidades.
+Contadora Pública de más de 10 años de experiencia en industria alimenticia, con formación en análisis de datos , utilizando Python, SQL y Power BI en proyectos de los mercados de video on demand , MOOCS, inmobliliario  y alojamiento. Me apasionan los desafíos y estoy en busca de proyectos en los que adquirir más experiencia .
 
 
 
