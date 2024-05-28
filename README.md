@@ -6,7 +6,7 @@
 
 ## ✨ A cerca de mí
 <div> 
-👩‍💼 Contadora Pública , 👩‍🏫 Docente y 👩‍💻 Científica de Datos especializada en el uso de herramientas de análisis como GCP, AWS, Python, SQL y Power BI. Actualmente, estoy a la vanguardia del análisis de datos y el desarrollo de IA para **Boti (Chatbot de C.A.B.A.)**🤖, manejando más de 1.5 millones de interacciones mensuales📊.
+👩‍💼 Contadora Pública , 👩‍🏫 Docente y 👩‍💻 Científica de Datos especializada en el uso de herramientas de análisis como GCP, AWS, Python, SQL y Power BI. Actualmente, estoy a la vanguardia del análisis de datos y el desarrollo de IA para **Boti** (Chatbot de C.A.B.A.)🤖, manejando más de 1.5 millones de interacciones mensuales📊.
 
 Mi pasión💖 radica en enfrentar desafíos y resolver problemas complejos. Actualmente, busco oportunidades que me permitan crecer tanto personal como profesionalmente🚀.
 
