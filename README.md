@@ -6,7 +6,11 @@
 
 ## ✨ A cerca de mí
 <div> 
-Contadora Pública de más de 10 años de experiencia en industria alimenticia, con formación en análisis de datos , utilizando Python, SQL y Power BI en proyectos de los mercados de video on demand , MOOCS, inmobliliario  y alojamiento. Me apasionan los desafíos y estoy en busca de proyectos en los que adquirir más experiencia .
+👩‍💼 **Contadora Pública**, 👩‍🏫 Docente y 👩‍💻 **Científica de Datos** especializada en el uso de herramientas de análisis como GCP, AWS, Python, SQL y Power BI. Actualmente, estoy a la vanguardia del análisis de datos y el desarrollo de IA para **Boti (Chatbot de C.A.B.A.)**🤖, manejando más de 1.5 millones de interacciones mensuales📊.
+
+Mi pasión💖 radica en enfrentar desafíos y resolver problemas complejos. Actualmente, busco oportunidades que me permitan crecer tanto personal como profesionalmente🚀.
+
+Si te interesa conocer los proyectos que he realizado te invito a conocer mi GitHub.
 
 
 
@@ -20,6 +24,9 @@ Contadora Pública de más de 10 años de experiencia en industria alimenticia, 
 <div> 
 
 [Link del Proyecto](https://github.com/HenryGrupo07/TrabajoGrupal)
+
+[Video Resumen](https://www.youtube.com/watch?v=aIRMZELeykE).
+
 
 <div> 
 
